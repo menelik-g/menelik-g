@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @menelik-g
 - 👀 I’m interested in learning and developing a career in computer science!
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java, Python and C
+- Looking to learn as much as possible and provide my programming skills!
 
 <!---
 menelik-g/menelik-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
